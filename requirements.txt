@@ -1,0 +1,15 @@
+flask
+numpy
+scikit-learn
+gunicorn
+httpx
+werkzeug
+duckduckgo_search
+beautifulsoup4
+# Optional extras:
+# tensorflow
+# pennylane
+# qiskit
+# python-bitcoinrpc
+pytest
+requests

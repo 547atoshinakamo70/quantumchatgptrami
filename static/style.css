@@ -1,0 +1,6 @@
+﻿html,body{margin:0;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#0b0f14;color:#e6f0ff}
+a{color:#6cf}
+main.container{max-width:920px;margin:24px auto;padding:16px}
+input{padding:8px 10px;border-radius:8px;border:1px solid #334;min-width:260px;background:#0e1520;color:#e6f0ff}
+button{padding:8px 14px;border:1px solid #36f;background:#25f;color:#001;border-radius:8px;cursor:pointer}
+pre{background:#0e1520;padding:12px;border-radius:8px;overflow:auto}
